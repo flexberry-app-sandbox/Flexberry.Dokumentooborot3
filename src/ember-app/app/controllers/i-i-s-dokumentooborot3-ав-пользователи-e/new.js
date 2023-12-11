@@ -1,0 +1,4 @@
+import IISDokumentooborot3АвПользователиEController from '../i-i-s-dokumentooborot3-ав-пользователи-e';
+
+var IISDokumentooborot3АвПользователиENewController = IISDokumentooborot3АвПользователиEController;
+export default IISDokumentooborot3АвПользователиENewController;

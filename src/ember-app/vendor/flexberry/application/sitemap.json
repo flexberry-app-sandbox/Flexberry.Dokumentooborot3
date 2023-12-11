@@ -1,0 +1,43 @@
+﻿{
+  "applicationCaption": "Dokumentooborot3",
+  "applicationTitle": "Dokumentooborot3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dokumentooborot3",
+      "caption": "Dokumentooborot3",
+      "title": "Dokumentooborot3",
+      "children": [
+        {
+          "link": "i-i-s-dokumentooborot3-ав-пользователи-l",
+          "menuName": null,
+          "caption": "Ав пользователи",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot3-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot3-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot3-вход-в-систему-l",
+          "menuName": null,
+          "caption": "Вход в систему",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
